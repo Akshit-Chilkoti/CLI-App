@@ -1,5 +1,5 @@
 # CLI-App
-Run your C++ app not matter in which directory your Command Prompt is!
+Run your C++ app no matter in which directory your Command Prompt is!
 
 Open System in Control Panel and Click Advanse System Settings.\
 ![Step](step1.png)\
